@@ -1,0 +1,17 @@
+pyrofork 
+tgcrypto==1.2.5 
+requests 
+aiohttp 
+aiofiles 
+certifi 
+pycryptodomex 
+beautifulsoup4 
+PyJWT 
+cloudscraper 
+pymongo 
+pytz 
+motor 
+pywidevine 
+emoji 
+aiocron
+pyzipper
